@@ -122,6 +122,7 @@ function SideDrawer() {
     }
   };
 
+  console.log('searchResult', searchResult)
   return (
     <>
       <Box
@@ -142,7 +143,7 @@ function SideDrawer() {
           </Button>
         </Tooltip>
         <Text fontSize="2xl" fontFamily="Work sans">
-          Talk-A-Tive
+          Overland
         </Text>
         <div>
           <Menu>

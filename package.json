@@ -11,7 +11,7 @@
     "mern",
     "overland"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Rajat Gang",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
